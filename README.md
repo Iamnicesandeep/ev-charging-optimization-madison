@@ -66,7 +66,7 @@ Current EV infrastructure is unevenly distributed, creating accessibility gaps f
 
 ## 📄 Project Report
 
-📑 [`Prescriptive Final.pdf`](docs/Prescriptive%20Final.pdf)
+📑 [`Prescriptive Final.pptx`](docs/Prescriptive%20Final.pptx)
 
 ---
 
